@@ -1,3 +1,3 @@
 ﻿# Evt
 # event
-# 'this is an event platform for socialization.... and the '
+# 'this is an event platform for socialization.... '
